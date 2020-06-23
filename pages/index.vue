@@ -2,12 +2,19 @@
   <div class="container">
     <div>
       <Logo />
+      <Socials />
     </div>
   </div>
 </template>
 
 <script>
-export default {}
+import Socials from "~/components/Socials.vue";
+
+export default {
+  components: {
+    Socials,
+  },
+}
 </script>
 
 <style>
