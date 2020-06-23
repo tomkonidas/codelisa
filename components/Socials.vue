@@ -2,7 +2,7 @@
   <section>
     <div class="social" v-for="(social, index) in socials" :key="index">
       <a :href="social.url"
-        ><img :src="social.iconSrc" :alt="social.name" width="46"
+        ><img :src="social.iconSrc" :alt="social.name" width="36"
       /></a>
     </div>
   </section>
