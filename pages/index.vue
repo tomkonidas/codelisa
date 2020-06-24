@@ -8,13 +8,9 @@
 </template>
 
 <script>
-import Socials from "~/components/Socials.vue";
 
-export default {
-  components: {
-    Socials,
-  },
-}
+
+export default {}
 </script>
 
 <style>
