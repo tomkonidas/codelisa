@@ -10,12 +10,12 @@
     "serve": "nuxt serve"
   },
   "dependencies": {
-    "nuxt": "^2.14.1"
+    "nuxt": "^2.14.4"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^2.1.1",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
-    "prettier": "^2.0.5"
+    "prettier": "^2.1.1"
   }
 }
