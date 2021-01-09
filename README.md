@@ -1,5 +1,7 @@
 # codelisa
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d1a4e1a-8cc6-489c-beb3-dce6ace25cb0/deploy-status)](https://app.netlify.com/sites/codelisa/deploys)
+
 ## Build Setup
 
 ```bash
